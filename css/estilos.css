@@ -13,6 +13,10 @@ body{
 }
 #cabecera
 {
+<<<<<<< HEAD
     background-color: gray;
+=======
+    background-color: red;
+>>>>>>> cabecera
     color: white;
 }
